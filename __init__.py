@@ -6,7 +6,6 @@ from PythonQt.QtCore import QTimer
 
 
 class influxts(ts3plugin):
-	"""docstring for overlayplugin"""
 	name = "influxPing"
 	requestAutoload = True
 	version = "0.1"
