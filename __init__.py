@@ -1,5 +1,4 @@
 from ts3plugin import ts3plugin
-from websocket import create_connection
 import ts3lib, ts3defines
 from influxdb import InfluxDBClient
 import datetime
